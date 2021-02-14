@@ -1,0 +1,58 @@
+
+body{
+	background-color:#FFFAF4;
+	font-family:"楷体";
+}
+#mainhead{
+	font-size:400%;
+	font-weight:bold;
+	text-align:center;
+	color:#66B3FF;
+	background-color:#FFD2D2;
+	height:80px;
+	padding:10px;
+	border:10px solid white;
+	margin:10px;
+}
+nav{
+	background-color:#efe5d0;
+	margin:10px 10px 0px 10px;
+	font-size:200%;
+	border:2px dotted black;
+}
+nav ul{
+	margin: 0px;
+	list-style-type:none;
+	padding: 5px 0px 5px 0px;
+}
+nav ul li{
+	display:inline;
+	padding: 5px 10px 5px 10px;
+}
+nav ul li a:link,nav ul li a:visited{
+	color:#954b4b;
+	text-decoration:none;
+}
+nav ul li.selected{
+	background-color:#c8b99c;
+}
+#tablecontainer{
+	display:table;
+	border-spacing: 10px;
+}
+#row{
+	display:table-row:
+}
+#rules{
+	display:table-cell;
+	padding: 15px;
+	vertical-align:top;
+	background-color:#ECF5FF;
+}
+aside{
+	display:table-cell;
+	padding: 15px;
+	vertical-align:top;
+	background-color:#FFFFFF;
+}
+	
