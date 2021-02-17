@@ -48,11 +48,49 @@ nav ul li.selected{
 	padding: 15px;
 	vertical-align:top;
 	background-color:#ECF5FF;
+	
 }
 aside{
 	display:table-cell;
 	padding: 15px;
 	vertical-align:top;
 	background-color:#FFFFFF;
-}
 	
+}
+#ruleshead{
+	font-size:180%;
+	text-align:center;
+	font-weight:bold;
+	color:#FF8040;
+}
+#people{
+	padding:0px;
+	margin:0px;
+}
+#compare{
+	background-image:url(img/pic4.png);
+	background-repeat:no-repeat;
+}
+h3{
+	color:#FF8040;
+	border:2px outset #FFD2D2;
+}
+.name{
+	font-weight:bold;
+}
+#asidehead{
+	font-size:150%;
+	text-align:center;
+	font-weight:bold;
+	color:#FF8040;
+
+}
+#coupon{
+	position:fixed;
+	top:350px;
+	left:0px;
+}
+#coupon a,img{
+	text-decoration:none;
+}
+
